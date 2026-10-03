@@ -58,13 +58,15 @@
 
 -   Registration link: Will Update Soon
 
--   Date: November 28~29, 2026
-
 -   Format: Single-Elimination bracket
  
      -   Advancing matchs and Additional match are Bo3
+
+         -  Date: December 5~6, 2026 
  
      -   All other matchs are Bo1
+ 
+         -  Date: November 28~29, 2026 
 
 -   Eligible regions: Earth（Human）
              
