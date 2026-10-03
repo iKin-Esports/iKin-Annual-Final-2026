@@ -26,7 +26,7 @@
 
 -   Time zone: GMT+8 HKT/CST
 
--   Type: Online (Hangzhou Servers via 5EPlay)
+-   Type: Online (Hangzhou / Hong Kong Servers via 5EPlay)
 
 ## Coastal Qualifier
 
