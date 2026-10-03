@@ -58,7 +58,7 @@
 
 -   Registration link: Will Update Soon
 
--   Date: November 28~29, 2026 & December 5~6, 2026
+-   Date: November 28~29, 2026
 
 -   Format: Single-Elimination bracket
  
